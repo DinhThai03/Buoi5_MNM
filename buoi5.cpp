@@ -29,10 +29,15 @@ bool soHoanThien(int a){
     return sum == n;
 };
 
+
 bool soChinhPhuong(int a)
 {
 	//day la nhanh moi
 }
+
+//comment
+bool soChinhPhuong(int a);
+>>>>>>> 9fe563f (commnet)
 bool soChan(int a);
 
 int main()
